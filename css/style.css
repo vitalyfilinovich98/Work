@@ -176,7 +176,7 @@ body {
   display: inline-block;
   width: 12px;
   height: 12px;
-  background: url("../img/Vector.svg") no-repeat center;
+  background: url("../img/vector.svg") no-repeat center;
 }
 .star-o {
   background: url("../img/vector0.svg") no-repeat center;
@@ -185,7 +185,7 @@ body {
   width: 32px;
   height: 32px;
   border: none;
-  background: transparent url(../img/left-arrow.svg) no-repeat center;
+  background: transparent url(../img/leftarrow.svg) no-repeat center;
   margin-right: 15px;
   cursor: pointer;
   outline: none;
@@ -194,7 +194,7 @@ body {
   width: 32px;
   height: 32px;
   border: none;
-  background: transparent url(../img/right-arrow.svg) no-repeat center;
+  background: transparent url(../img/rightarrow.svg) no-repeat center;
   cursor: pointer;
   outline: none;
 }
