@@ -11,7 +11,7 @@
 }
 
 body {
-  background: #070506 url("/img/main-bg.jpg") top right -50% no-repeat;
+  background: #070506 url("img\main-bg.jpg") top right -50% no-repeat;
   background-size: contain;
   background-attachment: fixed;
   color: #fff;
